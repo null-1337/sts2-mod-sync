@@ -1,0 +1,10 @@
+{
+  "id": "MultiHitDamage",
+  "name": "Multi-Hit Damage",
+  "author": "Aiadan",
+  "description": "Shows total damage for multi-hit attack cards, reflecting current strength and modifiers.",
+  "version": "1.4",
+  "has_dll": true,
+  "has_pck": false,
+  "affects_gameplay": false
+}

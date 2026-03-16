@@ -1,0 +1,13 @@
+{
+    "id":  "HeavenMode",
+    "name":  "Heaven",
+    "author":  "yoyo",
+    "description":  "凌驾于进阶之上的严酷试炼。\nAn unforgiving trial above Ascension.",
+    "version":  "0.0.4",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+
+                     ],
+    "affects_gameplay":  true
+}
