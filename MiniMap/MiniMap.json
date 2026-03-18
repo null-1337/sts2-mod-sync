@@ -1,11 +1,10 @@
-﻿{
+{
   "id": "MiniMap",
   "name": "MiniMap",
-  "author": "",
-  "description": "",
-  "version": "",
+  "author": "Ling Samuel",
+  "description": "MiniMap overlay for Slay the Spire 2",
+  "version": "v1.1.0",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": [],
   "affects_gameplay": false
 }
