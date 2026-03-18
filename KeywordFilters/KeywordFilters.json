@@ -1,11 +1,10 @@
-﻿{
+{
   "id": "KeywordFilters",
   "name": "KeywordFilters",
-  "author": "",
-  "description": "",
-  "version": "",
+  "author": "LingSamuel",
+  "description": "Add keyword-based filtering to the compendium card library.",
+  "version": "v1.1.0",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": [],
   "affects_gameplay": false
 }
