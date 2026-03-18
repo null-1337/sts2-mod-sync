@@ -1,0 +1,11 @@
+﻿{
+  "id": "MiniMap",
+  "name": "MiniMap",
+  "author": "",
+  "description": "",
+  "version": "",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
