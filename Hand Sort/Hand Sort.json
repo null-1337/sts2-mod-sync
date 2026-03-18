@@ -1,0 +1,11 @@
+{
+  "id": "Hand Sort",        
+  "name": "Hand Sort",
+  "author": "SparkUiX",
+  "description": "HandSort",
+  "version": "1.0",
+  "has_pck": false,         
+  "has_dll": true,       
+  "dependencies": [""],     
+  "affects_gameplay": false 
+}

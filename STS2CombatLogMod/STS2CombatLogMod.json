@@ -1,0 +1,10 @@
+{
+  "id": "STS2CombatLogMod",
+  "name": "Combat Log",
+  "author": "Thebuda4",
+  "description": "Logs detailed combat actions and run statistics. In-game combat log with hoverable special text.",
+  "version": "1.2.1",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}
