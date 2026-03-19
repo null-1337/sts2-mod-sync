@@ -1,11 +1,10 @@
-﻿{
+{
   "id": "Act4Placeholder",
   "name": "Act4Placeholder",
-  "author": "",
-  "description": "",
-  "version": "",
-  "has_pck": true,
+  "author": "iKenster",
+  "description": "Act 4 Placeholder Mod — adds The Architect as an Act 4 boss encounter.",
+  "version": "0.1.0.a1",
   "has_dll": true,
-  "dependencies": [],
-  "affects_gameplay": false
+  "has_pck": true,
+  "affects_gameplay": true
 }
