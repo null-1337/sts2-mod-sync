@@ -1,0 +1,9 @@
+﻿{
+  "id": "BlueSlipperMod",
+  "name": "BlueSlipperMod",
+  "author": "redtea",
+  "version": "1.0.0",
+  "description": "Taiwanese Slipper Power",
+  "has_dll": true,
+  "affects_gameplay": false
+}
