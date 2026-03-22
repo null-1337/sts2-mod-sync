@@ -1,0 +1,4 @@
+{
+  "_help_verboseDebug": "Set to true to print detailed patch-level diagnostics to godot.log. Turn off once the crash is identified.",
+  "verboseDebug": false
+}
