@@ -3,7 +3,7 @@
   "name": "Combat Log",
   "author": "Thebuda4",
   "description": "Logs detailed combat actions and run statistics. In-game combat log with hoverable special text.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "has_pck": false,
   "has_dll": true,
   "affects_gameplay": false
