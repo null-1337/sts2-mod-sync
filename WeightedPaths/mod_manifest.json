@@ -1,0 +1,12 @@
+{
+  "pck_name": "WeightedPaths",
+  "name": "WeightedPaths",
+  "author": "lordpeppe",
+  "description": "Weighted paths for navigation",
+  "version": "1.0.0",
+  "id":"WeightedPaths",
+  "has_pck":true,
+  "has_dll":true,
+  "dependencies":[],
+  "affects_gameplay":false
+} 
