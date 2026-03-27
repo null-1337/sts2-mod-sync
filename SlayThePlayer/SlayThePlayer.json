@@ -3,7 +3,7 @@
   "name": "SlayThePlayer",
   "author": "Maimun",
   "description": "Maybe the real enemy was right next to you all along...",
-  "version": "v1.1.2",
+  "version": "v1.1.3",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [],
